@@ -1,0 +1,2 @@
+# cnx
+on tea testnet
